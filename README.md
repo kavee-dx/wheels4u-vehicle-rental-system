@@ -50,6 +50,19 @@ The system is built using **Java, JSP, Servlets, and MySQL**, ensuring reliable 
 
 ---
 
+
+## 📊 Impact
+
+- Simplified the vehicle rental process by allowing users to search and book vehicles online  
+- Reduced manual handling of vehicle records through a database-driven system  
+- Improved accuracy of bookings using basic vehicle availability tracking  
+- Helped users manage their accounts easily with profile and password update features
+- Organized vehicle, user, and driver data in a structured MySQL database
+
+
+---
+
+
 ## 🧰 Tech Stack & Tools
 
 **Programming Language:** Java  
